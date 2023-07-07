@@ -7,6 +7,6 @@
 -   Arrays.toString() - **SYNTAX** - Converts the array value to strings .
 
 ## DAY 2 - 7/7/2023
-### 2.  Java - Leetcode problems
+### 2.  Java - Leetcode problems knowledge and 2d Arrays
 -   **error: incompatible types: int cannot be converted to int[] return sum;** - if this error occurs then we should check the return value type  is whether matching with the return type in function name.
 
