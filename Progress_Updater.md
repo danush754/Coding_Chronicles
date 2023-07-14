@@ -14,5 +14,8 @@
 ## DAY 3 - 13/72023
 ### 1.  Java - Solved the string Problems using some new methods
 -  **charAt()** - gives the character at the position of the index value.
--  **Character.isWhitespace()** - checks whether the given char is a whitespace or not. 
+-  **Character.isWhitespace()** - checks whether the given char is a whitespace or not.
+
+## DAY 4 - 14/7/2023
+### 1.   Agile Methodology 
 
